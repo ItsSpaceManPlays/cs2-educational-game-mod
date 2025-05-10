@@ -3,16 +3,16 @@
 
 namespace offsets
 {
-	constexpr std::ptrdiff_t dwEntityList = 0x1A1F670;
-	constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x1874040;
-	constexpr std::ptrdiff_t dwViewMatrix = 0x1A89070;
+	constexpr std::ptrdiff_t dwEntityList = 0x19F6F00;
+	constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x184B0D0;
+	constexpr std::ptrdiff_t dwViewMatrix = 0x1A5FED0;
 	constexpr std::ptrdiff_t dwForceJump = 0x1884C40; // buttons.hpp cs2 dumper
-	constexpr std::ptrdiff_t dwPlantedC4 = 0x1A22570;
-	constexpr std::ptrdiff_t dwViewAngles = 0x1A93300;
+	constexpr std::ptrdiff_t dwPlantedC4 = 0x19F9260;
+	constexpr std::ptrdiff_t dwViewAngles = 0x1A6A2C0;
 
 	constexpr std::ptrdiff_t m_pGameSceneNode = 0x328;
 	constexpr std::ptrdiff_t m_vecAbsOrigin = 0xD0;
-	constexpr std::ptrdiff_t m_hPlayerPawn = 0x814;
+	constexpr std::ptrdiff_t m_hPlayerPawn = 0x824;
 
 	constexpr std::ptrdiff_t m_modelState = 0x170;
 	constexpr std::ptrdiff_t m_skeletonInstance = 0x50;
